@@ -16,6 +16,8 @@ Método: POST
 Corpo da Requisição (JSON):
 
 {
+  "name": "your name",
   "email": "exemplo@email.com",
+  "message": "your message"
 }
 ````
