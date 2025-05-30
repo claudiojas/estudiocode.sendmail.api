@@ -1,4 +1,4 @@
-# Documentação da API para Envio Automático de E-mails - sendmail-api
+# Documentação da API para Envio Automático de E-mails - estudiocode.sendmail.api
 
 Esta API permite enviar e-mails automaticamente em resposta a uma solicitação recebida em uma rota específica. A aplicação utiliza o Nodemailer para enviar e-mails.
 
